@@ -43,4 +43,5 @@ AVATAR is a web project designed to showcase various elements related to a ficti
 Replace placeholders like `your-username` with your actual username and customize the sections as needed to accurately describe your project. The provided README covers basic information about the project, installation, usage, contribution guidelines, and licensing information. Make sure to tailor it to the specifics of your project.
 
 
+#made by bash1193
 
